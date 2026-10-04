@@ -1,0 +1,6 @@
+{
+  "name": "The Streamline Squad Portal",
+  "description": "Civic Hydrological & Sewerage Helper Portal for The Streamline Squad",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
